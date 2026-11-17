@@ -1,6 +1,6 @@
 # Pull Request Dashboard
 
-*Last updated: 2026-11-16 03:53:35 UTC*
+*Last updated: 2026-11-17 05:46:09 UTC*
 
 ## Status Legend
 
@@ -12,15 +12,11 @@
 
 ### mllombardi/lombardi-py-forge
 
-| PR | Title | Author | Status | Created |
-|---|---|---|---|---|
-| [#1](https://github.com/mllombardi/lombardi-py-forge/pull/1) | update version | @mllombardi | 🟡 | 2025-12-22 |
+No open pull requests.
 
 ### mllombardi/lombardi-node-forge
 
-| PR | Title | Author | Status | Created |
-|---|---|---|---|---|
-| [#1](https://github.com/mllombardi/lombardi-node-forge/pull/1) | update version | @mllombardi | ⚪ | 2025-12-22 |
+No open pull requests.
 
 ### mllombardi/lombardi-hcl-forge
 
